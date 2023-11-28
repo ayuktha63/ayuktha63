@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krishna Prasad</h1>
-<h3 align="center">A passionate c developer from India</h3>
+<h3 align="center">A passionate Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayuktha63&label=Profile%20views&color=0e75b6&style=flat" alt="ayuktha63" /> </p>
 
