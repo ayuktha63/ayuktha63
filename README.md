@@ -2,8 +2,9 @@
 <h3 align="center">AI/ML Tech Enthusiast & Passionate Programmer</h3>
 
 - 🔭 I’m currently studying at **Mar Baselios College of Engineering and Technology (Autonomous)**
-- 🌱 I’m expanding my skills in **Java**, **C**, **Figma**, **Python Django**, and **Flask**
+- 🌱 I’m expanding my skills in **Java**, **C**, **Figma**, **Python Django**, **Flask**, **AI/ML**, and **Deep Learning**
 - 🚀 Gained experience in **API Integration** (Gemini) and building models with **custom datasets**
+- 🧠 Experienced in building **Chatbots** using custom datasets, **AI Assistants**, and **Smart Farmer Dashboards**
 - 🏆 Actively participating in **competitive coding** on [HackerRank](https://www.hackerrank.com/profile/krishnaprasadsm1)
 - 👯 Active Member of **IEE SB MBCET**
 
@@ -21,6 +22,8 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
