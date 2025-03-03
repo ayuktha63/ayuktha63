@@ -5,8 +5,7 @@
 - 🌱 I’m expanding my skills in **Java**, **C**, **Figma**, **Python Django**, **Flask**, **AI/ML**, and **Deep Learning**
 - 🚀 Gained experience in **API Integration** (Gemini) and building models with **custom datasets**
 - 🧠 Experienced in building **Chatbots** using custom datasets, **AI Assistants**, and **Smart Farmer Dashboards**
-- 🏆 Actively participating in **competitive coding** on [HackerRank](https://www.hackerrank.com/profile/krishnaprasadsm1)
-- 👯 Active Member of **IEE SB MBCET**
+- 👯 Active Execom Member of **IEE SB MBCET**,**CSI**,**ISTE**,**Mulearn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
